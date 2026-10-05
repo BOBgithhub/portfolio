@@ -1,3 +1,24 @@
-.body{
-    background-color: #407a6e;
+#redtext {
+    color: rgb(49, 13, 13);
+    font-weight: bold;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+img {
+    border-radius: 10px;
+}
+
+#b {
+    border-color: black;
+    border-style: dotted;
+}
+
+#card {
+    background-color: white;
+    padding: 20px;
+    width: 450px;
+    border-radius: 20px;
 }
